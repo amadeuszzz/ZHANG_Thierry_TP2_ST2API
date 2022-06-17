@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PWTzT2vxkL9jLE1TrlfSbNRHabH+mgThm07UHqxTJovZStZ2xveFm/cRH1p9ApJ0zfQBT0jFD0xEvCpA/66InQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Zhang Thierry\\Desktop\\ZHANG_Thierry_TP2_ST2API\\ZHANG_Thierry_TP2_ST2API\\ZHANG_Thierry_TP2_ST2API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zhang Thierry\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

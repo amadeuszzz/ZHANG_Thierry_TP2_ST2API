@@ -1,0 +1,15 @@
+C:\Users\Zhang Thierry\Desktop\ZHANG_Thierry_TP2_ST2API\ZHANG_Thierry_TP2_ST2API\obj\Debug\netcoreapp3.1\ZHANG_Thierry_TP2_ST2API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zhang Thierry\Desktop\ZHANG_Thierry_TP2_ST2API\ZHANG_Thierry_TP2_ST2API\obj\Debug\netcoreapp3.1\ZHANG_Thierry_TP2_ST2API.AssemblyInfoInputs.cache
+C:\Users\Zhang Thierry\Desktop\ZHANG_Thierry_TP2_ST2API\ZHANG_Thierry_TP2_ST2API\obj\Debug\netcoreapp3.1\ZHANG_Thierry_TP2_ST2API.AssemblyInfo.cs
+C:\Users\Zhang Thierry\Desktop\ZHANG_Thierry_TP2_ST2API\ZHANG_Thierry_TP2_ST2API\obj\Debug\netcoreapp3.1\ZHANG_Thierry_TP2_ST2API.csproj.CoreCompileInputs.cache
+C:\Users\Zhang Thierry\Desktop\ZHANG_Thierry_TP2_ST2API\ZHANG_Thierry_TP2_ST2API\bin\Debug\netcoreapp3.1\ZHANG_Thierry_TP2_ST2API.exe
+C:\Users\Zhang Thierry\Desktop\ZHANG_Thierry_TP2_ST2API\ZHANG_Thierry_TP2_ST2API\bin\Debug\netcoreapp3.1\ZHANG_Thierry_TP2_ST2API.deps.json
+C:\Users\Zhang Thierry\Desktop\ZHANG_Thierry_TP2_ST2API\ZHANG_Thierry_TP2_ST2API\bin\Debug\netcoreapp3.1\ZHANG_Thierry_TP2_ST2API.runtimeconfig.json
+C:\Users\Zhang Thierry\Desktop\ZHANG_Thierry_TP2_ST2API\ZHANG_Thierry_TP2_ST2API\bin\Debug\netcoreapp3.1\ZHANG_Thierry_TP2_ST2API.runtimeconfig.dev.json
+C:\Users\Zhang Thierry\Desktop\ZHANG_Thierry_TP2_ST2API\ZHANG_Thierry_TP2_ST2API\bin\Debug\netcoreapp3.1\ZHANG_Thierry_TP2_ST2API.dll
+C:\Users\Zhang Thierry\Desktop\ZHANG_Thierry_TP2_ST2API\ZHANG_Thierry_TP2_ST2API\bin\Debug\netcoreapp3.1\ZHANG_Thierry_TP2_ST2API.pdb
+C:\Users\Zhang Thierry\Desktop\ZHANG_Thierry_TP2_ST2API\ZHANG_Thierry_TP2_ST2API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Zhang Thierry\Desktop\ZHANG_Thierry_TP2_ST2API\ZHANG_Thierry_TP2_ST2API\obj\Debug\netcoreapp3.1\ZHANG_Thierry_TP2_ST2API.csproj.CopyComplete
+C:\Users\Zhang Thierry\Desktop\ZHANG_Thierry_TP2_ST2API\ZHANG_Thierry_TP2_ST2API\obj\Debug\netcoreapp3.1\ZHANG_Thierry_TP2_ST2API.dll
+C:\Users\Zhang Thierry\Desktop\ZHANG_Thierry_TP2_ST2API\ZHANG_Thierry_TP2_ST2API\obj\Debug\netcoreapp3.1\ZHANG_Thierry_TP2_ST2API.pdb
+C:\Users\Zhang Thierry\Desktop\ZHANG_Thierry_TP2_ST2API\ZHANG_Thierry_TP2_ST2API\obj\Debug\netcoreapp3.1\ZHANG_Thierry_TP2_ST2API.genruntimeconfig.cache
