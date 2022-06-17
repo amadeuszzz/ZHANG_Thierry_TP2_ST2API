@@ -11,7 +11,7 @@
         "projectName": "ZHANG_Thierry_TP2_ST2API",
         "projectPath": "C:\\Users\\Zhang Thierry\\Desktop\\ENCULER\\ZHANG_Thierry_TP2_ST2API\\ZHANG_Thierry_TP2_ST2API\\ZHANG_Thierry_TP2_ST2API.csproj",
         "packagesPath": "C:\\Users\\Zhang Thierry\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Zhang Thierry\\Desktop\\ENCULER\\ZHANG_Thierry_TP2_ST2API\\ZHANG_Thierry_TP2_ST2API\\obj\\",
+        "outputPath": "C:\\Users\\Zhang Thierry\\Desktop\\ENCULER\\ZHANG_Thierry_TP2_ST2API\\ZHANG_Thierry_TP2_ST2API\\obj\\publish\\win-x64\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Zhang Thierry\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,6 +61,11 @@
             }
           },
           "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
         }
       }
     }
